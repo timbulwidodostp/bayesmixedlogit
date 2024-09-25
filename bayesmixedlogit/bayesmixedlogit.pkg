@@ -1,5 +1,14 @@
-d 'DEA': Data envelopment analysis
+d 'bayesmixedlogit': Bayesian mixed logit model And Bayesian mixed logit model in WTP space Use bayesmixedlogit And bayesmixedlogitwtp With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f bayesmixedlogit.ado
+f bayesmixedlogit.sthlp
+f bayesmixedlogitwtp.ado
+f bayesmixedlogitwtp.sthlp
+f case2alt.ado
+f case2alt.ado304
+f case2alt.sthlp
+f case2alt.sthlp2013-05-02
+f lamcmc.mlib
+f mcmccqreg.ado
+f mcmccqreg.sthlp
+f mf_amcmc.sthlp
