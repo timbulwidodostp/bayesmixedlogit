@@ -1,6 +1,8 @@
 # bayesmixedlogit
 Bayesian mixed logit model And Bayesian mixed logit model in WTP space Use bayesmixedlogit And bayesmixedlogitwtp With STATA 18
 
+https://www.youtube.com/watch?v=ZGBqvHUmumE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
